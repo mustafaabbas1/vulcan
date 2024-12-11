@@ -1,2 +1,2 @@
 # vulcan
-A one-size-fits-most approach to backends, ci/cd, devops, and everything in between.
+A one-size-fits-all approach to backends, ci/cd, devops, and everything in between.
